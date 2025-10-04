@@ -20,7 +20,7 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
               <div className="mil-icon-frame mil-icon-frame-sm">
                 <img src="img/icons/sm/4.svg" alt="icon" />
               </div>
-              <p>Find out how ITSulu Could save you over 2.400 US$ a year.</p>
+              <p>Find out how MashWerx Could save you over 2.400 US$ a year.</p>
             </div>
             <ul className="mil-ap-list">
               <li>
