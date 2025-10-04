@@ -13,9 +13,9 @@ const ComingSoon = () => {
               <p className="mil-light">
                 We Provide{" "}
                 <span className="mil-accent m-3">
-                  IT Solutions &amp; Services
+                  Digital Solutions &amp; Innovation
                 </span>{" "}
-                For Enterprise
+                For Modern Business
               </p>
             </div>
             {/* mobile menu button */}
@@ -41,20 +41,20 @@ const ComingSoon = () => {
               <h1 className="mil-light mil-mb-15">
                 Coming <span className="mil-accent">Soon</span>
               </h1>
-              <p className="mil-light-soft">We are working on our website.</p>
+              <p className="mil-light-soft">We're crafting something extraordinary for you.</p>
             </div>
             <div className="col-xl-6">
               <div className="row align-items-center">
                 <div className="col-lg-5">
                   <h4 className="mil-light mil-mb-30">
-                    Join The <span className="mil-accent">ITSulu</span>
+                    Join The <span className="mil-accent">MashWerx</span>
                     <br /> Experience
                   </h4>
                 </div>
                 <div className="col-lg-7">
                   <p className="mil-light-soft mil-mb-30">
-                    Lorem ipsum dolor sit amet, consectetuer <br />
-                    adipiscing elit sed diam nonummy.
+                    Revolutionary digital solutions are on the way. <br />
+                    Be the first to experience the future of innovation.
                   </p>
                 </div>
               </div>
@@ -75,7 +75,7 @@ const ComingSoon = () => {
       {/* coming soon end */}
       <div className="mil-addition-bottom">
         <div className="container-fluid">
-          <p className="mil-text-sm mil-light-soft">© ITSulu 2023.</p>
+          <p className="mil-text-sm mil-light-soft">© MashWerx 2025.</p>
           <p className="mil-text-sm mil-light-soft">All Rights Reserved.</p>
         </div>
       </div>
