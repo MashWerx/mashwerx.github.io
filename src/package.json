@@ -7,8 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export": "next build && next export",
-    "deploy": "npm run export && cd out && xcopy /E /I /Y . ..\\..\\. && cd ..\\.."
+    "export": "next build && next export --outdir ../docs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

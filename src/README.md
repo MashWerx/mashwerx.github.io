@@ -86,18 +86,30 @@ npm run lint
 ## 🚀 Deployment
 
 ### GitHub Pages Deployment
-This project is configured for deployment to GitHub Pages:
+This project is configured for deployment to GitHub Pages using the `docs` folder at the project root:
 
-1. **Build the project**
-   ```bash
-   npm run build
+1. **Build and export the project**
+   ```powershell
+   cd src
+   npm run export
    ```
 
-2. **Deploy to GitHub Pages**
-   ```bash
-   npm run export  # if available
-   # or manually deploy the 'out' directory
+2. **Move the static export to the docs folder**
+   ```powershell
+   ./export-to-docs.ps1
    ```
+
+   This script will remove the old `docs` folder (if it exists), recreate it, and copy the contents of `src/out` to the `docs` folder at the project root.
+
+3. **Push to GitHub**
+   ```bash
+   git add ../docs
+   git commit -m "Deploy static site to docs folder"
+   git push origin <branch>
+   ```
+
+4. **Set GitHub Pages to serve from `/docs`**
+   In your repository settings, set GitHub Pages to use the `docs` folder on your chosen branch (e.g., `main` or `docs-deployment`).
 
 ### Custom Domain
 The website is configured to use a custom domain via the `CNAME` file in the root directory.
