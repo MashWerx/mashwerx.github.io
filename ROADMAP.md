@@ -24,6 +24,7 @@ This document tracks the features we plan to implement for the MashWerx website.
 - [x] Initial Next.js Setup: Basic website structure with pages and components
 - [x] Update Core Content: Populated hero slides, about section, services, testimonials, partners, team, and contact info with Mashwerx-specific content
 - [x] Add Projects and Blog Content: Created Markdown files for 2 projects (FinSense Mobile Suite, AutoSupply AI Core) and 2 blog posts (Why Your Next Mobile App Needs an AI Strategy, The Real ROI of Business Process Automation)
+- [x] Replace ITSulu with Mashwerx: Updated all references to the old brand name across headers, footers, pages, and configuration files
 
 ## Backlog
 
