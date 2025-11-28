@@ -53,8 +53,8 @@ const ComingSoon = () => {
                 </div>
                 <div className="col-lg-7">
                   <p className="mil-light-soft mil-mb-30">
-                    Lorem ipsum dolor sit amet, consectetuer <br />
-                    adipiscing elit sed diam nonummy.
+                    We are crafting innovative IT solutions to empower your business. <br />
+                    Stay tuned for updates and join the Mashwerx experience.
                   </p>
                 </div>
               </div>
