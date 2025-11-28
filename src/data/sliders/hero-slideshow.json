@@ -1,17 +1,22 @@
 {
-    "title": { "first": "We Provide Services <br />and Solutions", "second": "To Enterprise" },
-    "subtitle": { "first": "The Next", "second": "Gen" },
-    "button": { "label": "Let’s Talk", "link": "/contact" },
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "slides": [
         {
-            "image": "img/photo/1.jpg"
+            "image": "img/photo/1.jpg",
+            "title": { "first": "We Engineer Digital Evolution.", "second": "" },
+            "description": "Mashwerx fuses mobile strategy, AI intelligence, and robust web architecture to transform how businesses operate.",
+            "button": { "label": "View Our Work", "link": "/projects" }
         },
         {
-            "image": "img/photo/2.jpg"
+            "image": "img/photo/2.jpg",
+            "title": { "first": "Automate the Impossible.", "second": "" },
+            "description": "Replace manual bottlenecks with intelligent workflows. We build custom AI agents that scale your operations 24/7.",
+            "button": { "label": "Explore AI Services", "link": "/services#ai" }
         },
         {
-            "image": "img/photo/3.jpg"
+            "image": "img/photo/3.jpg",
+            "title": { "first": "Native Performance, Global Reach.", "second": "" },
+            "description": "Building high-speed, intuitive mobile applications for iOS and Android that users actually enjoy using.",
+            "button": { "label": "Start Building", "link": "/contact" }
         }
     ],
     "items": [

@@ -3,16 +3,16 @@
     "title":  { "first": "What Our", "second": "Clients", "third": "Say" },
     "items": [
         {
-            "name": "Tamzyn French",
+            "name": "CTO, LogiTrans",
             "image": "img/faces/1.jpg",
-            "role": "Agency Design",
-            "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            "role": "Client",
+            "text": "Mashwerx didn't just build us an app; they automated our entire booking backend. Efficiency is up 40%."
         },
         {
-            "name": "Margaret Williams",
+            "name": "Founder, FinTech Flow",
             "image": "img/faces/2.jpg",
-            "role": "Agency Design",
-            "text": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            "role": "Client",
+            "text": "The AI integration they proposed seemed impossible, but they delivered ahead of schedule. Truly elite engineers."
         },
         {
             "name": "Tarryn Gillies",

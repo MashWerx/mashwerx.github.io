@@ -23,8 +23,8 @@ const Team = () => {
                   <img src="img/faces/1.jpg" alt="Team member" />
                   <div className="mil-team-circle" />
                 </div>
-                <h4 className="mil-mb-10">Andrew Kazantzis</h4>
-                <p>CEO ITSulu</p>
+                <h4 className="mil-mb-10">Alex Mercer</h4>
+                <p>Principal Architect</p>
               </Link>
             </div>
             <div className="col-sm-6 col-lg-4">
@@ -33,8 +33,8 @@ const Team = () => {
                   <img src="img/faces/2.jpg" alt="Team member" />
                   <div className="mil-team-circle" />
                 </div>
-                <h4 className="mil-mb-10">Jane Meldrum</h4>
-                <p>Designer</p>
+                <h4 className="mil-mb-10">Sarah Lin</h4>
+                <p>Head of Mobile</p>
               </Link>
             </div>
             <div className="col-sm-6 col-lg-4">
@@ -46,8 +46,8 @@ const Team = () => {
                   <img src="img/faces/3.jpg" alt="Team member" />
                   <div className="mil-team-circle" />
                 </div>
-                <h4 className="mil-mb-10">Roy Ellawala</h4>
-                <p>App Developer</p>
+                <h4 className="mil-mb-10">David Kovac</h4>
+                <p>Automation Strategist</p>
               </Link>
             </div>
             <div className="col-sm-6 col-lg-4">

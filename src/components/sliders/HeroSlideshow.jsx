@@ -1,17 +1,21 @@
 import { sliderProps } from "@/src/common/sliderProps";
 import Link from "next/link";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { useState } from "react";
 import Content from "../../data/sliders/hero-slideshow.json";
 
 const Home1BannerSlider = () => {
+  const [currentSlide, setCurrentSlide] = useState(0);
+
   return (
     <div className="mil-banner mil-top-space-0">
       <Swiper
         {...sliderProps.milBannersSlider}
         className="swiper-container mil-banner-slideshow"
+        onSlideChange={(swiper) => setCurrentSlide(swiper.activeIndex)}
       >
         {Content.slides.map((slide, key) => (
-        <SwiperSlide className="swiper-slide">
+        <SwiperSlide className="swiper-slide" key={key}>
           <img
             src={slide.image}
             className="mil-background-image"
@@ -28,25 +32,21 @@ const Home1BannerSlider = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-xl-8">
-              <span className="mil-suptitle mil-mb-60">
-                <span className="mil-light">{Content.subtitle.first}</span>{" "}
-                <span className="mil-accent">{Content.subtitle.second}</span>
-              </span>
               <h1 className="mil-mb-60">
-                <span dangerouslySetInnerHTML={{__html : Content.title.first}} className="mil-uppercase mil-light" />{" "}
-                <span className="mil-font-3 mil-accent">{Content.title.second}</span>
+                <span dangerouslySetInnerHTML={{__html : Content.slides[currentSlide].title.first}} className="mil-uppercase mil-light" />{" "}
+                <span className="mil-font-3 mil-accent">{Content.slides[currentSlide].title.second}</span>
               </h1>
               <div className="mil-flex-hori-center">
                 <div>
                   <Link
-                    href={Content.button.link}
+                    href={Content.slides[currentSlide].button.link}
                     className="mil-button mil-border mil-light"
                   >
-                    <span>{Content.button.label}</span>
+                    <span>{Content.slides[currentSlide].button.label}</span>
                   </Link>
                 </div>
                 <p className="mil-button-descr mil-light-soft">
-                  {Content.description}
+                  {Content.slides[currentSlide].description}
                 </p>
               </div>
             </div>

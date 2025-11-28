@@ -197,16 +197,16 @@ const Contact = () => {
             <div className="col-xl-4">
               <div className="mil-mb-60">
                 <h4 className="mil-mb-30">United States</h4>
-                <h5 className="mil-list-title mil-mb-15">New York</h5>
+                <h5 className="mil-list-title mil-mb-15">Innovation District</h5>
                 <p className="mil-mb-30">
-                  525, North Tryon Street, Suite 1600, Charlotte, NC 28202-0213
+                  101 Tech Plaza, Innovation District
                 </p>
                 <div className="mil-divider mil-divider-left mil-mb-30" />
                 <h6 className="mil-mb-15">
-                  <span className="mil-accent">+ 90</span> 700 300 000
+                  <span className="mil-accent">+1 (555)</span> 019-2834
                 </h6>
                 <h6>
-                  <span className="mil-accent">usa</span>.support@mydomain.com
+                  <span className="mil-accent">hello</span>@mashwerx.tech
                 </h6>
               </div>
             </div>

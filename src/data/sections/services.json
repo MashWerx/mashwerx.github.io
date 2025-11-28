@@ -5,21 +5,15 @@
         "items": [
             {
                 "num": "01",
-                "name": "Dedicated Team",
+                "name": "Intelligent Automation & AI",
                 "icon": "img/icons/md/1.svg",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                "text": "Custom LLM integration, predictive analytics, and RPA (Robotic Process Automation) to eliminate redundancy."
             },
             {
                 "num": "02",
-                "name": "QA and Testing",
+                "name": "Mobile App Development",
                 "icon": "img/icons/md/2.svg",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            },
-            {
-                "num": "03",
-                "name": "SaaS",
-                "icon": "img/icons/md/3.svg",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                "text": "High-performance React Native and Flutter solutions that deliver native experiences on iOS and Android."
             }
         ]
     },
@@ -27,22 +21,16 @@
         "heading": "IT Solutions",
         "items": [
             {
+                "num": "03",
+                "name": "Web Application Architecture",
+                "icon": "img/icons/md/3.svg",
+                "text": "Scalable, secure, and responsive web apps built on modern frameworks (Next.js, Node.js, Python)."
+            },
+            {
                 "num": "04",
-                "name": "Blockchain",
+                "name": "Cloud & DevOps",
                 "icon": "img/icons/md/4.svg",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            },
-            {
-                "num": "05",
-                "name": "Artificial Intelligence",
-                "icon": "img/icons/md/5.svg",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-            },
-            {
-                "num": "06",
-                "name": "Internet of Things",
-                "icon": "img/icons/md/6.svg",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+                "text": "CI/CD pipelines, containerization (Docker/K8s), and serverless architecture to ensure your software is always live."
             }
         ]
     }
