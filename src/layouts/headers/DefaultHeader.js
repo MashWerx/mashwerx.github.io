@@ -82,16 +82,16 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
                   <Link href="service-1">Services</Link>
                   <ul>
                     <li>
-                      <Link href="service-1">Service 1</Link>
+                      <Link href="service-1">SaaS Development</Link>
                     </li>
                     <li>
-                      <Link href="service-2">Service 2</Link>
+                      <Link href="service-2">Product Design & UX</Link>
                     </li>
                     <li>
-                      <Link href="service-3">Service 3</Link>
+                      <Link href="service-3">Mobile App Development</Link>
                     </li>
                     <li>
-                      <Link href="service-4">Service 4</Link>
+                      <Link href="service-4">AI-Powered Security</Link>
                     </li>
                   </ul>
                 </li>
@@ -114,17 +114,6 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
                 </li>
                 <li>
                   <Link href="contact">Contact Us</Link>
-                </li>
-                <li className="mil-has-children">
-                  <Link href="#.">Other</Link>
-                  <ul>
-                    <li>
-                      <Link href="coming-soon">Coming Soon</Link>
-                    </li>
-                    <li>
-                      <Link href="404">404</Link>
-                    </li>
-                  </ul>
                 </li>
               </ul>
               <div className="mil-search-icon">
