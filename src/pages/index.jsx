@@ -11,6 +11,7 @@ import HowItWorksSection from "../components/sections/HowItWorks";
 import SkillsSection from "../components/sections/Skills";
 import ContactSection from "../components/sections/Contact";
 import Divider from "../components/sections/Divider";
+import ComingSoon from "./coming-soon";
 
 const LatestProjectsSlider = dynamic( () => import("../components/sliders/LatestProjects"), { ssr: false } );
 const LatestPostsSlider = dynamic( () => import("../components/sliders/LatestPosts"), { ssr: false } );
@@ -35,7 +36,8 @@ const Home1 = (props) => {
     </Layouts>
   );
 };
-export default Home1;
+// export default Home1;
+export default ComingSoon;
 
 export async function getStaticProps() {
   const allPosts = getSortedPostsData();
