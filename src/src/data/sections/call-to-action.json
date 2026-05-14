@@ -1,7 +1,7 @@
 {
     "bg_image": "img/photo/7.jpg",
-    "title": { "first": "Compare", "second": "ITSulu", "third": "Plans" },
-    "subtitle": "Our Services and Solutions",
-    "button": "Learn More",
-    "link": "/prices"
+    "title": { "first": "Have a digital product, platform, or process", "second": "that needs a better solution?", "third": "" },
+    "subtitle": "Final Step",
+    "button": "Start Your Project",
+    "link": "/contact"
 }

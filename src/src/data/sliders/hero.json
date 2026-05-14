@@ -2,113 +2,101 @@
     "items": [
         {
             "image": "img/photo/4.jpg",
-            "subtitle": { "first": "Our", "second": "Inspiration" },
+            "subtitle": { "first": "Software. Automation.", "second": "AI. Cloud." },
             "title": [
                 {
-                    "string": "The",
+                    "string": "Converging",
                     "accent": "0"
                 },
                 {
-                    "string": "Freedom",
+                    "string": "Code, Creativity,",
                     "accent": "1"                    
                 },
                 {
-                    "string": "to focus on <br />improving",
+                    "string": "and",
                     "accent": "0"
                 },
                 {
-                    "string": "Your",
+                    "string": "Intelligence",
                     "accent": "1"
-                },
-                {
-                    "string": "business or idea",
-                    "accent": "0"
                 }
             ],
-            "text": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse <br /> molestie consequat, vel illum dolore eu feugiat nulla.",
+            "text": "Mashwerx helps businesses turn complex technology challenges into practical digital systems. We design and build SaaS platforms, mobile applications, automated workflows, cloud solutions, and AI-powered security foundations that help teams move faster and operate smarter.",
             "button1": {
                 "enable": "1",
-                "label": "Read More",
-                "link": "/about"
+                "label": "Let's Discuss Your Opportunity",
+                "link": "/contact"
             },
             "button2": {
                 "enable": "1",
-                "label": "Watch Video",
-                "link": ""
+                "label": "Explore Our Services",
+                "link": "/service-1"
             }
         },
         {
             "image": "img/photo/5.jpg",
-            "subtitle": { "first": "Our", "second": "Inspiration" },
+            "subtitle": { "first": "Software. Automation.", "second": "AI. Cloud." },
             "title": [
                 {
-                    "string": "The",
+                    "string": "Converging",
                     "accent": "0"
                 },
                 {
-                    "string": "Freedom",
+                    "string": "Code, Creativity,",
                     "accent": "1"                    
                 },
                 {
-                    "string": "to focus on <br />improving",
+                    "string": "and",
                     "accent": "0"
                 },
                 {
-                    "string": "Your",
+                    "string": "Intelligence",
                     "accent": "1"
-                },
-                {
-                    "string": "business or idea",
-                    "accent": "0"
                 }
             ],
-            "text": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse <br /> molestie consequat, vel illum dolore eu feugiat nulla.",
+            "text": "Mashwerx helps businesses turn complex technology challenges into practical digital systems. We design and build SaaS platforms, mobile applications, automated workflows, cloud solutions, and AI-powered security foundations that help teams move faster and operate smarter.",
             "button1": {
                 "enable": "1",
-                "label": "Read More",
-                "link": "/about"
+                "label": "Let's Discuss Your Opportunity",
+                "link": "/contact"
             },
             "button2": {
-                "enable": "0",
-                "label": "Watch Video",
-                "link": ""
+                "enable": "1",
+                "label": "Explore Our Services",
+                "link": "/service-1"
             }
         },
         {
             "image": "img/photo/6.jpg",
-            "subtitle": { "first": "Our", "second": "Inspiration" },
+            "subtitle": { "first": "Software. Automation.", "second": "AI. Cloud." },
             "title": [
                 {
-                    "string": "The",
+                    "string": "Converging",
                     "accent": "0"
                 },
                 {
-                    "string": "Freedom",
+                    "string": "Code, Creativity,",
                     "accent": "1"                    
                 },
                 {
-                    "string": "to focus on <br />improving",
+                    "string": "and",
                     "accent": "0"
                 },
                 {
-                    "string": "Your",
+                    "string": "Intelligence",
                     "accent": "1"
-                },
-                {
-                    "string": "business or idea",
-                    "accent": "0"
                 }
             ],
-            "text": "Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse <br /> molestie consequat, vel illum dolore eu feugiat nulla.",
+            "text": "Mashwerx helps businesses turn complex technology challenges into practical digital systems. We design and build SaaS platforms, mobile applications, automated workflows, cloud solutions, and AI-powered security foundations that help teams move faster and operate smarter.",
             "button1": {
                 "enable": "1",
-                "label": "Read More",
-                "link": "/about"
+                "label": "Let's Discuss Your Opportunity",
+                "link": "/contact"
             },
             "button2": {
-                "enable": "0",
-                "label": "Watch Video",
-                "link": ""
+                "enable": "1",
+                "label": "Explore Our Services",
+                "link": "/service-1"
             }
         }
     ]

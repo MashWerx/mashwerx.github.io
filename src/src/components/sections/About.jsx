@@ -11,38 +11,6 @@ const AboutSection = () => {
                 <div className="mil-image-frame">
                   <img src={Content.image} alt={Content.title} />
                 </div>
-                <div className="mil-window">
-                  <ul className="mil-speakers">
-                    {Content.speakers.map((item, key) => (
-                    <li className="mil-speaker">
-                      <img src={item.image} alt={item.alt} />
-                    </li>
-                    ))}
-                  </ul>
-                  <div className="mil-window-bottom">
-                    <h3>{Content.rating.value}</h3>
-                    <div>
-                      <ul className="mil-stars">
-                        <li>
-                          <i className="fas fa-star" />
-                        </li>
-                        <li>
-                          <i className="fas fa-star" />
-                        </li>
-                        <li>
-                          <i className="fas fa-star" />
-                        </li>
-                        <li>
-                          <i className="fas fa-star" />
-                        </li>
-                        <li className="mil-empty">
-                          <i className="fas fa-star" />
-                        </li>
-                      </ul>
-                      <p className="mil-text-sm">{Content.rating.label}</p>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
             <div className="col-md-6 col-xl-6">

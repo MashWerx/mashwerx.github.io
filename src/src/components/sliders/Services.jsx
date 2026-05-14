@@ -14,6 +14,7 @@ const Home2ServicesSlider = () => {
               {Content.subtitle}
             </span>
             <h2>{Content.title}</h2>
+            {Content.text && <p className="mil-mt-30">{Content.text}</p>}
           </div>
           <div className="col-md-6 col-xl-6">
             <div className="mil-adaptive-right mil-mt-60-adapt">

@@ -1,78 +1,55 @@
 {
-    "subtitle": "Our Services and Solutions",
-    "title": "Technological Applications",
+    "subtitle": "Services and Solutions",
+    "title": "What We Help You Build",
+    "text": "Whether you need a new product, a better user experience, a mobile application, a secure cloud system, or automated business processes, Mashwerx helps you move from concept to working solution.",
     "items": [
         {
-            "name": "Data Secuity",
-            "text": "Accelerate innovation with world class tech teams our all service.",
+            "name": "SaaS Development",
+            "text": "Design, build, migrate, and scale cloud-based platforms, customer portals, dashboards, and subscription products.",
             "list": [
-                { "value": "Accelerate innovation." },
-                { "value": "With world-class tech teams." },
-                { "value": "Our all service offerings to enhance." },
-                { "value": "Simply drag, drop and customize." }    
+                { "value": "Cloud-native platform architecture" },
+                { "value": "Role-based access and secure tenancy" },
+                { "value": "API and data integration support" },
+                { "value": "Scalable foundations for growth" }
             ],
-            "button": "Learn More",
-            "link": "/contact"
+            "button": "Explore Our Services",
+            "link": "/service-1"
         },
         {
-            "name": "SEO and Optimazation",
-            "text": "Accelerate innovation with world class tech teams our all service.",
+            "name": "Product Design & UX",
+            "text": "Turn ideas, workflows, and user needs into clear interfaces, prototypes, design systems, and product experiences.",
             "list": [
-                { "value": "Accelerate innovation." },
-                { "value": "With world-class tech teams." },
-                { "value": "Our all service offerings to enhance." },
-                { "value": "Simply drag, drop and customize." }    
+                { "value": "User journeys and information architecture" },
+                { "value": "Wireframes and clickable prototypes" },
+                { "value": "Design systems and UI consistency" },
+                { "value": "Usability-first product thinking" }
             ],
-            "button": "Learn More",
-            "link": "/contact"
+            "button": "Explore Our Services",
+            "link": "/service-2"
         },
         {
-            "name": "Analytics and Research",
-            "text": "Accelerate innovation with world class tech teams our all service.",
+            "name": "Mobile App Development",
+            "text": "Create intuitive mobile applications for customers, teams, field operations, and connected digital services.",
             "list": [
-                { "value": "Accelerate innovation." },
-                { "value": "With world-class tech teams." },
-                { "value": "Our all service offerings to enhance." },
-                { "value": "Simply drag, drop and customize." }    
+                { "value": "iOS and Android app delivery" },
+                { "value": "Cross-platform development options" },
+                { "value": "API and backend integration" },
+                { "value": "Performance-focused app architecture" }
             ],
-            "button": "Learn More",
-            "link": "/contact"
+            "button": "Explore Our Services",
+            "link": "/service-3"
         },
         {
-            "name": "IT Management Services",
-            "text": "Accelerate innovation with world class tech teams our all service.",
+            "name": "AI-Powered Security",
+            "text": "Protect applications, data, cloud environments, and digital operations with smarter security architecture and monitoring readiness.",
             "list": [
-                { "value": "Accelerate innovation." },
-                { "value": "With world-class tech teams." },
-                { "value": "Our all service offerings to enhance." },
-                { "value": "Simply drag, drop and customize." }    
+                { "value": "Application and API security review" },
+                { "value": "Data protection and access controls" },
+                { "value": "Cloud security configuration hardening" },
+                { "value": "Detection and response readiness" }
             ],
-            "button": "Learn More",
-            "link": "/contact"
-        },
-        {
-            "name": "Web Development",
-            "text": "Accelerate innovation with world class tech teams our all service.",
-            "list": [
-                { "value": "Accelerate innovation." },
-                { "value": "With world-class tech teams." },
-                { "value": "Our all service offerings to enhance." },
-                { "value": "Simply drag, drop and customize." }    
-            ],
-            "button": "Learn More",
-            "link": "/contact"
-        },
-        {
-            "name": "UI/UX Design",
-            "text": "Accelerate innovation with world class tech teams our all service.",
-            "list": [
-                { "value": "Accelerate innovation." },
-                { "value": "With world-class tech teams." },
-                { "value": "Our all service offerings to enhance." },
-                { "value": "Simply drag, drop and customize." }    
-            ],
-            "button": "Learn More",
-            "link": "/contact"
+            "button": "Explore Our Services",
+            "link": "/service-4"
         }
     ]
 }

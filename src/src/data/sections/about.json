@@ -1,42 +1,22 @@
 {
     "image": "img/photo/8.jpg",
-    "title": "Powerful and Easy",
-    "subtitle": "Designed for Developers",
-    "text": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose. There are many variations of passages majority.",
+    "title": "Digital Systems Built to Work Together",
+    "subtitle": "Intro",
+    "text": "Modern businesses rely on more than a website or a single app. They need connected systems that support customers, teams, workflows, data, and decision-making. Mashwerx brings software development, product design, automation, AI, cloud infrastructure, and security together into practical digital solutions.",
     "list": [
         {
-            "value": "Accelerate innovation."
+            "value": "Move from scattered tools to connected systems"
         },
         {
-            "value": "With world-class tech teams."
+            "value": "Reduce manual bottlenecks with practical automation"
         },
         {
-            "value": "Our all service offerings to enhance."
-        },
-        {
-            "value": "Simply drag, drop and customize."
+            "value": "Build solutions that are easier to use and scale"
         }
     ],
     "rating": {
-        "label": "From +5000 reviews",
-        "value": "4.5"
+        "label": "",
+        "value": ""
     },
-    "speakers": [
-        {
-            "image": "img/faces/1.jpg",
-            "alt": "speaker"
-        },
-        {
-            "image": "img/faces/2.jpg",
-            "alt": "speaker"
-        },
-        {
-            "image": "img/faces/3.jpg",
-            "alt": "speaker"
-        },
-        {
-            "image": "img/faces/4.jpg",
-            "alt": "speaker"
-        }
-    ]
+    "speakers": []
 }
