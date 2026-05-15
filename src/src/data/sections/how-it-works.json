@@ -1,34 +1,39 @@
 {
-    "title": { "first": "How We", "second": "Collaborate", "third": "With You" },
-    "subtitle": "Discover Our Company",
+    "title": { "first": "A Clear Path", "second": "From Idea", "third": "to Launch" },
+    "subtitle": "Process",
     "items": [
         {
-            "name": "Thinking Big",
+            "name": "Discover",
             "icon": "/img/icons/sm/1.svg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "text": "We learn about your business, users, systems, goals, and constraints."
         },
         {
-            "name": "Starting Small",
+            "name": "Define",
             "icon": "/img/icons/sm/2.svg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "text": "We shape the opportunity into a clear roadmap, scope, technical direction, and delivery plan."
         },
         {
-            "name": "Creating Fast",
+            "name": "Design",
             "icon": "/img/icons/sm/3.svg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "text": "We create user flows, architecture, prototypes, and experience details before heavy development begins."
         },
         {
-            "name": "Innovating Scale",
+            "name": "Build",
             "icon": "/img/icons/sm/4.svg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            "text": "We develop, integrate, test, and refine the solution with transparent progress along the way."
+        },
+        {
+            "name": "Launch & Improve",
+            "icon": "/img/icons/sm/5.svg",
+            "text": "We support deployment, monitor performance, and identify opportunities for future optimization."
         }
     ],
     "button1": {
-        "label": "Learn More",
-        "link": "/about"
+        "label": "Talk to an Expert",
+        "link": "/contact"
     },
     "button2": {
-        "label": "How We Work",
-        "link": "/careers"
+        "label": "Start Your Project",
+        "link": "/contact"
     }
 }

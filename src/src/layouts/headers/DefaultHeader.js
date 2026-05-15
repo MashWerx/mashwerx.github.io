@@ -11,23 +11,21 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
         <div className="mil-additional-panel">
           <div className="container-fluid">
             <ul className="mil-ap-list">
-              <li>
-                Phone: <span className="mil-accent">+ 01</span> 800 070 404
-              </li>
-              <li>Info@mydomain.com</li>
+              <li>hello@mashwerx.com</li>
+              <li>Remote-first digital product and technology agency</li>
             </ul>
             <div className="mil-ap-call-to-action">
               <div className="mil-icon-frame mil-icon-frame-sm">
                 <img src="img/icons/sm/4.svg" alt="icon" />
               </div>
-              <p>Find out how ITSulu Could save you over 2.400 US$ a year.</p>
+              <p>Mashwerx builds intelligent digital systems for practical business outcomes.</p>
             </div>
             <ul className="mil-ap-list">
               <li>
-                <a href="#.">Accounta</a>
+                <Link href="contact">Start Your Project</Link>
               </li>
               <li>
-                <a href="#.">English</a>
+                <Link href="contact">Talk to an Expert</Link>
               </li>
             </ul>
           </div>
@@ -46,52 +44,26 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
           <div className={`mil-navigation ${toggle ? "mil-active" : ""}`}>
             <nav>
               <ul>
-                <li className="mil-has-children">
-                  <Link href="/">Enterprise</Link>
-                  <ul>
-                    <li>
-                      <Link href="home-2">Home V2</Link>
-                    </li>
-                    <li>
-                      <Link href="about">About us</Link>
-                    </li>
-                    <li>
-                      <Link href="team">Team</Link>
-                    </li>
-                    <li>
-                      <Link href="team-single">Team Member</Link>
-                    </li>
-                    <li>
-                      <Link href="careers">Careers</Link>
-                    </li>
-                    <li>
-                      <Link href="prices">Prices</Link>
-                    </li>
-                    <li>
-                      <Link href="faq">FAQ</Link>
-                    </li>
-                    <li>
-                      <Link href="event">Event</Link>
-                    </li>
-                  </ul>
+                <li>
+                  <Link href="home-2">Home</Link>
                 </li>
                 <li>
-                  <Link href="portfolio">Case Studies</Link>
+                  <Link href="about">About</Link>
                 </li>
                 <li className="mil-has-children">
                   <Link href="service-1">Services</Link>
                   <ul>
                     <li>
-                      <Link href="service-1">Service 1</Link>
+                      <Link href="service-1">SaaS Development</Link>
                     </li>
                     <li>
-                      <Link href="service-2">Service 2</Link>
+                      <Link href="service-2">Product Design &amp; UX</Link>
                     </li>
                     <li>
-                      <Link href="service-3">Service 3</Link>
+                      <Link href="service-3">Mobile App Development</Link>
                     </li>
                     <li>
-                      <Link href="service-4">Service 4</Link>
+                      <Link href="service-4">AI-Powered Security</Link>
                     </li>
                   </ul>
                 </li>
@@ -99,32 +71,27 @@ const DefaultHeader = ({ transparent, headerTop, extarClass }) => {
                   <Link href="solution-1">Solutions</Link>
                   <ul>
                     <li>
-                      <Link href="solution-1">Solution 1</Link>
+                      <Link href="solution-1">Automation Solutions</Link>
                     </li>
                     <li>
-                      <Link href="solution-2">Solution 2</Link>
+                      <Link href="solution-2">Cloud Modernization</Link>
                     </li>
                     <li>
-                      <Link href="solution-3">Solution 3</Link>
+                      <Link href="solution-3">AI Workflow Systems</Link>
+                    </li>
+                    <li>
+                      <Link href="contact">Data &amp; Integration Solutions</Link>
                     </li>
                   </ul>
                 </li>
                 <li>
-                  <Link href="blog">Blog</Link>
+                  <Link href="portfolio">Case Studies</Link>
                 </li>
                 <li>
-                  <Link href="contact">Contact Us</Link>
+                  <Link href="publication">Blog</Link>
                 </li>
-                <li className="mil-has-children">
-                  <Link href="#.">Other</Link>
-                  <ul>
-                    <li>
-                      <Link href="coming-soon">Coming Soon</Link>
-                    </li>
-                    <li>
-                      <Link href="404">404</Link>
-                    </li>
-                  </ul>
+                <li>
+                  <Link href="contact">Contact</Link>
                 </li>
               </ul>
               <div className="mil-search-icon">

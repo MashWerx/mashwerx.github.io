@@ -2,23 +2,23 @@
     "items": [
         {
             "icon": "img/icons/md/1.svg",
-            "subtitle": "Data Security",
-            "title": "Quis ipsum suspendisse <br />ultrices gravida"
+            "subtitle": "Product-Led Strategy",
+            "title": "We clarify goals, users, workflows, and technical requirements before recommending a solution."
         },
         {
             "icon": "img/icons/md/6.svg",
-            "subtitle": "SEO and Optimazation",
-            "title": "Quis ipsum suspendisse <br />ultrices gravida"
+            "subtitle": "Cloud-Ready Engineering",
+            "title": "We build SaaS platforms, portals, dashboards, and applications designed for scalability."
         },
         {
             "icon": "img/icons/md/4.svg",
-            "subtitle": "Analytics and Research",
-            "title": "Quis ipsum suspendisse <br />ultrices gravida"
+            "subtitle": "Automation That Saves Time",
+            "title": "We connect tools, reduce repetitive work, and help teams operate with fewer manual bottlenecks."
         },
         {
             "icon": "img/icons/md/2.svg",
-            "subtitle": "IT Management Services",
-            "title": "Quis ipsum suspendisse <br />ultrices gravida"
+            "subtitle": "Security by Design",
+            "title": "We consider security, data protection, access control, and resilience throughout delivery."
         }
     ]
 }

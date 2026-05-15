@@ -1,28 +1,28 @@
 {
     "bg_image": "img/photo/9.jpg",
-    "subtitle": "Hard Work",
-    "title": { "first": "Our", "second": "Awards", "third": "and Tecognitions" },
-    "description": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose.",
+    "subtitle": "Why Mashwerx",
+    "title": { "first": "Practical Technology Delivery", "second": "for Growing", "third": "Businesses" },
+    "description": "Mashwerx focuses on clear communication, thoughtful planning, and reliable execution. We help teams move from idea to launch with fewer unknowns, stronger technical decisions, and solutions that are easier to maintain.",
     "button": {
-        "label": "About us",
-        "link": "/about"
+        "label": "Get in Touch",
+        "link": "/contact"
     },
     "items": [
         {
-            "name": "CSS Design",
-            "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose."
+            "name": "Discovery before development",
+            "text": "We reduce risk by clarifying goals, workflows, and priorities before heavy implementation starts."
         },
         {
-            "name": "W3 Design Award",
-            "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose."
+            "name": "Strategy connected to execution",
+            "text": "Roadmaps, architecture, and delivery plans are aligned to practical business outcomes."
         },
         {
-            "name": "The FWA Award",
-            "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose."
+            "name": "Product, engineering, and security together",
+            "text": "We combine UX, development, automation, cloud, and security into one coordinated delivery path."
         },
         {
-            "name": "WWW Awards",
-            "text": "Various versions have evolved over the years, sometimes by accident, sometimes on purpose."
+            "name": "Systems designed for long-term scale",
+            "text": "Solutions are built for maintainability, resilience, and future growth rather than short-term hacks."
         }
     ]
 }
